@@ -1,4 +1,4 @@
-yy-- Create database
+-- Create database
 CREATE DATABASE ecommerce;
 USE ecommerce;
 
